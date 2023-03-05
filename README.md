@@ -1,6 +1,6 @@
 # braincleanse
 
-braincleanse is a language with the sole purpose of making code in brainfuck a bit easier for your brain.  
+braincleanse is a language with the sole purpose of making code in brain..ehm.. a bit easier for your brain.  
 #comes with translator!!
 
 # TODO
